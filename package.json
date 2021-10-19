@@ -1,0 +1,22 @@
+{
+  "name": "nci_2021_bm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupamabm/nci_2021_bm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anupamabm/nci_2021_bm/issues"
+  },
+  "homepage": "https://github.com/anupamabm/nci_2021_bm#readme",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}
