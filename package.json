@@ -1,8 +1,8 @@
 {
-  "name": "nci_2021_bm",
+  "name": "nci",
   "version": "1.0.0",
-  "description": "",
-  "main": "contract.js",
+  "description": "college project",
+  "main": "contrcat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/anupamabm/nci_2021_bm#readme",
   "dependencies": {
-    "web3": "^1.6.0"
+    "web3": "^1.6.1"
   }
 }
